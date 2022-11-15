@@ -1,8 +1,0 @@
-Zmienna TMAX: Temperatura powinna zawierać się od -30 do 40 stopni Celcjusza. Wyrażone w dziesiątkach Celcjusza
-w weather.txt, finalnie skaluje je do Celcjuszy.
-Zmienna TMIN: Temperatura powinna zawierać się od -30 do 40 stopni Celcjusza. Wyrażone w dziesiątkach Celcjusza
- w weather.txt, finalnie skaluje je do Celcjuszy.
-Zmienna PRCP: Opady atmosferyczne nie powinny być mniejsze od 0. Wyrażone w dziesiątkach mm  w weather.txt,
-finalnie skaluje je do mm.
-
-Zakładam również, że TMAX > TMIN. W przeciwnym wypadku odrzucam taki odczyt danych.
